@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   background-color: #f2f1ed;
-  font-family: "Patua One"sans-serif;
+  font-family: Georgia, Serif;
   line-height: 1.5;
 }
 
@@ -45,4 +45,8 @@ nav a:hover {
 
 .intro {
   font-size: 1rem;
+}
+
+h2 {
+  font-family: "Patua One", sans-serif
 }
